@@ -1,0 +1,12 @@
+*zoomsplit.txt* maximize or restore an opened split
+author: Jallet
+Repo: https://github.com/Jallet/ZoomSplit.vim
+License: GPL-3.0
+
+INTRODUCTION                *zoomsplit*
+This plugin enables you to maximize a split, and restore the previous split structure after some edit
+
+COMMANDS
+                            *zoomsplit:ToggleZoom*
+:ToggleZoom                 Maximize current split if there are more than one split, or restore previous split structure if the current split is maximized.
+
